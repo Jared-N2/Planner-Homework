@@ -8,5 +8,6 @@
     for this assignment, I started out by taking some cards from bootstrap and duplicating them for the amount of hours I needed. That is how i made the actual planner. then I added some classes and some Id's to the div containers to program with my js. In the Js, I set a function to automatically update the time of day, and the day itself.then i needed to create a cas function to my timeslots, and last but not least, i needed to save them to local storage. 
 
 ## screenshots/ deployed site
-
+![screenshot](/assets/Screenshot-11.png);
+![screenshot](/assets/Screenshot-12.png);
 
